@@ -6,6 +6,10 @@
 
 > 🚀 Built with **Flutter**, powered by **NewsAPI**, and designed to make news discovery fun and personalized.
 
+
+<img width="334" height="665" alt="2026-07-07_20-45-07" src="https://github.com/user-attachments/assets/bc88012c-c9e5-4a56-914d-e5e5cff936b4" />
+
+
 ---
 
 ## ✨ Features
