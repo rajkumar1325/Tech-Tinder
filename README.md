@@ -7,10 +7,8 @@
 A Tinder-inspired **Flutter** news application that personalizes your feed based on your swipe preferences.
 
 <img width="320" alt="Tech Tinder" src="https://github.com/user-attachments/assets/bc88012c-c9e5-4a56-914d-e5e5cff936b4" />
-
-<img width="1792" height="1120" alt="2026-07-07_20-46-36" src="https://github.com/user-attachments/assets/31cfabd4-0925-48cf-8c89-54f95d09dd70" />
 <img width="1792" height="1120" alt="2026-07-07_20-46-24" src="https://github.com/user-attachments/assets/510c843a-a5ca-4224-b734-0919f48fc7ef" />
-<img width="1792" height="1119" alt="2026-07-07_20-45-17" src="https://github.com/user-attachments/assets/2e028b31-1ba7-4d2c-91dc-38d56c9ffddf" />
+<img width="1792" height="1120" alt="2026-07-07_20-46-36" src="https://github.com/user-attachments/assets/31cfabd4-0925-48cf-8c89-54f95d09dd70" />
 
 
 <br>
