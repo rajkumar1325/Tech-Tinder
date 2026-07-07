@@ -123,8 +123,7 @@ flutter run
 Download the latest Android APK from the **Releases** section.
 
 👉 **Latest Release**
-
-*(Add the release link after publishing.)*
+### https://github.com/rajkumar1325/Tech-Tinder/releases/latest
 
 ---
 
